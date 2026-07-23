@@ -71,7 +71,8 @@ The dataset (`swiggy_data.xlsx`) contains order-level records with the following
 ### 1. Monthly Sales Trend
 Revenue tracked month-over-month across the full Jan–Aug 2025 window.
 
-![Monthly Sales Trend](charts/monthly_sales_trend.png)
+<img width="862" height="630" alt="image" src="https://github.com/user-attachments/assets/8fe14263-8bae-4a95-89b6-eae34139e2f0" />
+
 
 ### 2. Daily Revenue Trend (Mon–Sun)
 Total revenue aggregated by day of the week to spot weekday vs. weekend ordering patterns.
