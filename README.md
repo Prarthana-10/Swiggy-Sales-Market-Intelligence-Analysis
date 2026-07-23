@@ -77,22 +77,26 @@ Revenue tracked month-over-month across the full Jan–Aug 2025 window.
 ### 2. Daily Revenue Trend (Mon–Sun)
 Total revenue aggregated by day of the week to spot weekday vs. weekend ordering patterns.
 
-![Daily Revenue Trend](charts/daily_revenue_trend.png)
+<img width="864" height="470" alt="image" src="https://github.com/user-attachments/assets/b25ab008-bbe2-4def-815d-4e9eea450ae0" />
+
 
 ### 3. Veg vs Non-Veg Revenue Split
 Dishes were tagged **Non-Veg** if their name contained keywords like *chicken, egg, fish, mutton, prawn, biryani, kabab*, else **Veg**. Chart shows each category's share of total revenue.
 
-![Veg vs Non-Veg Revenue](charts/veg_nonveg_pie.png)
+<img width="861" height="400" alt="image" src="https://github.com/user-attachments/assets/85a3393a-7bb9-45de-8ff5-8be6c1f9384e" />
+
 
 ### 4. Revenue by State
 Total revenue broken down across every state in the dataset.
 
-![Revenue by State](charts/revenue_by_state.png)
+<img width="1279" height="647" alt="image" src="https://github.com/user-attachments/assets/1fd387c4-9360-4d5c-bad9-da039b437d55" />
+
 
 ### 5. Top 5 Cities by Sales
 The five highest-revenue-generating cities.
 
-![Top 5 Cities](charts/top5_cities.png)
+<img width="1268" height="529" alt="image" src="https://github.com/user-attachments/assets/4258cc2a-dc52-4292-a599-797b29c5b8ba" />
+
 
 ## 🚀 How to Run
 
